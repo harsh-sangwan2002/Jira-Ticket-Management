@@ -1,0 +1,39 @@
+# HackerRank Automation
+
+A quick guide to my Project ->
+
+<img src ="/image.webp">
+
+## Tools Used
+
+- HTML/CSS
+- JavaScript
+- shortid-dist
+- Font Awesome
+
+## Requirements
+
+Please include the following cdn link tags before testing the website
+
+- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css"
+    integrity="sha512-10/jx2EXwxxWqCLX/hHth/vu2KY3jCF70dCQB8TSgNjbCVAC/8vai53GfMDrO2Emgwccf2pJqxct9ehpzG+MTw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+- <script src="https://unpkg.com/shortid-dist@1.0.5/dist/shortid-2.2.13.min.js"></script>
+
+## Usage
+
+This project creates the tickets for managing daily tasks and business work.
+
+Click on
+
+```js
+Open With Live Server
+``` 
+to run the website
+
+## Demo Video
+
+- [Link](https://app.gemoo.com/share/home?codeId=Ml3Rd9e4J7B2X)
+
+
