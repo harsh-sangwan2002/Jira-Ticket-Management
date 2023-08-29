@@ -39,5 +39,3 @@ to run the website
 
 
 https://github.com/harsh-sangwan2003/Jira-Ticket-Management/assets/84121947/d78bee34-ca77-4745-85c2-3c2fbebe13c0.mp4
-
-
