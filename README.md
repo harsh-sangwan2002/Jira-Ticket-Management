@@ -1,4 +1,4 @@
-# Jira Ticket Managment
+# Jira Ticket Management
 
 ## Live Website
 
