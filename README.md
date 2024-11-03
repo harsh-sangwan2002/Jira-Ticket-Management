@@ -2,7 +2,7 @@
 
 ## Live Website
 
-- [Link](https://harsh-sangwan2003.github.io/Jira-Ticket-Management/)
+- [Link](https://harsh-sangwan2002.github.io/Jira-Ticket-Management/)
 
 A quick guide to my Project ->
 
